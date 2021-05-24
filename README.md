@@ -6,7 +6,7 @@
 
 - ✨ The 10% of Tokens will be donated to cryto charity (holders can vote for their favorite causes)
 
-- ✨ The 40% of the Total minted Tokens Will be Burned
+- 🔥🔥 The 54% of the Total minted Tokens Will be Burned🔥🔥
 
 - The first Token with a Fibonacci sequence burning
 
