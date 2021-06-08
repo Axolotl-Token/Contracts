@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Axolotl Token  $AXOL
 
-- 💞️ The first Token meme with a big purpose.
+- 💞️ Private Micropayments Channels for all.
 
 - ✨ The 10% of Tokens will be donated to cryto charity (holders can vote for their favorite causes)
 
@@ -10,8 +10,8 @@
 
 - The first Token with a Fibonacci sequence burning
 
-- Community-focused, Cryptocurrency with instant rewards for holders.
+- Community-focused, %2 rewards for holders.
 
-Contract: 
+Contract: https://etherscan.io/address/0xCae93FbbdbC389fb459F8825eF9ff30C3f9fFeF2#code
 
 Website: https://axolotl.finance/
