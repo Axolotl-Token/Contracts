@@ -4,14 +4,10 @@
 
 - 💞️ Private Micropayments Channels for all.
 
-- ✨ The 10% of Tokens will be donated to cryto charity (holders can vote for their favorite causes)
+- 🔥🔥 The 80% of the Total Tokens was Burned🔥🔥
 
-- 🔥🔥 The 54% of the Total minted Tokens Will be Burned🔥🔥
+- %5 rewards for holders.
 
-- The first Token with a Fibonacci sequence burning
-
-- Community-focused, %2 rewards for holders.
-
-Contract: https://etherscan.io/address/0xCae93FbbdbC389fb459F8825eF9ff30C3f9fFeF2#code
+Contract: https://bscscan.com/address/0x8b8c48a7900b423115d74FE04Ff2545944F3A4Ec
 
 Website: https://axolotl.finance/
