@@ -4,7 +4,8 @@
 
 - 💞️ Private Micropayments Channels for all.
 
-- 🔥🔥 The 80% of the Total Tokens was Burned🔥🔥
+- 🔥🔥 The 80% of the Total Tokens was Burned🔥🔥 
+- Proof of Burn --> https://bscscan.com/token/0x8b8c48a7900b423115d74FE04Ff2545944F3A4Ec?a=0x000000000000000000000000000000000000dead 
 
 - %5 rewards for holders.
 
